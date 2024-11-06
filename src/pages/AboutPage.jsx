@@ -8,7 +8,7 @@ const AboutPage = () => {
         <h1 className="text-center">About Us</h1>
         <hr />
         <p className="lead text-center">
-        <b>MAA EMPORIUM</b> is your one-stop online marketplace for stylish clothes, exquisite jewelry, and the latest electronics. From fashionable apparel that caters to all tastes and seasons, to jewelry pieces that bring elegance and sparkle to every occasion, Neeladris Bazaar ensures a quality shopping experience. We source our products with care, offering unique designs and high standards to meet modern lifestyle needs. The electronics section features a variety of top-brand gadgets, ensuring customers stay ahead in technology. Neeladris Bazaar brings convenience and reliability to online shopping, combining variety with affordability for a seamless experience.
+        <b>MAA EMPORIUM</b> is your one-stop online marketplace for stylish clothes, exquisite jewelry, and the latest electronics. From fashionable apparel that caters to all tastes and seasons, to jewelry pieces that bring elegance and sparkle to every occasion,Maa Emporium ensures a quality shopping experience. We source our products with care, offering unique designs and high standards to meet modern lifestyle needs. The electronics section features a variety of top-brand gadgets, ensuring customers stay ahead in technology. Maa Emporium brings convenience and reliability to online shopping, combining variety with affordability for a seamless experience.
         </p>
 
         <h2 className="text-center py-4">Our Products</h2>
